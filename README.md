@@ -63,7 +63,7 @@ response = requests.post(
         "messages": [
             {"role": "user", "content": "你好"}
         ],
-        "model": "gpt-3.5-turbo",
+        "model": "think",
         "temperature": 0.1,
         "stream": True
     }
