@@ -1,0 +1,172 @@
+[
+    {
+      "name": "qwenlm",
+      "baseurl": "http://172.28.100.252:50081/v1",
+      "apikey": "sk-06v8oXVOFkBYDbwPE9F119F3E9954e9e8298Da122b834c03",
+      "model": "qwen-max-latest",
+      "type": "qwenlm",
+      "timeout": 300.0,
+      "temperature": 0.1,
+      "stream": false
+    },
+    {
+      "name": "chutesDeepseekR1",
+      "baseurl": "http://172.28.100.252:50081/v1",
+      "apikey": "sk-j7IhBZf2oCJMu9VWFa758eF29d6a4fBe8dF16685A6898957",
+      "model": "chutesDeepseekV3",
+      "type": "chutes",
+      "timeout": 300.0,
+      "temperature": 0.1,
+      "stream": false
+    },
+    {
+      "name": "opDeepseekR1",
+      "baseurl": "http://172.28.100.252:50081/v1",
+      "apikey": "sk-ftV3z4QYHCr9GGn68204E9Bc30Ec4bA79619845521E54b4d",
+      "model": "opDeepseekV3",
+      "type": "openrouter",
+      "timeout": 300.0,
+      "temperature": 0.1,
+      "stream": false
+    },
+    {
+      "name": "heckDeepseekR1",
+      "baseurl": "http://172.28.100.252:50081/v1",
+      "apikey": "sk-eG7hxac2WOoouXPy25B598A8914f41Ca9cBc842a7bA52d04",
+      "model": "heckdeepseekV3",
+      "type": "heck",
+      "timeout": 300.0,
+      "temperature": 0.1,
+      "stream": false
+    },
+    {
+      "name": "sufy",
+      "baseurl": "http://172.28.100.252:50081/v1",
+      "apikey": "sk-MukadvuknbxlcUGuICYYSLkzQoyhY7p3C8ynaA4I5a7NgrtA",
+      "model": "sfdeepseek-v3",
+      "type": "sufy",
+      "timeout": 300.0,
+      "temperature": 0.1,
+      "stream": false
+    },
+    {
+      "name": "opDeepseekR1",
+      "baseurl": "http://172.28.100.252:50081/v1",
+      "apikey": "sk-ftV3z4QYHCr9GGn68204E9Bc30Ec4bA79619845521E54b4d",
+      "model": "opgemini-2.0-flash-exp",
+      "type": "openrouter",
+      "timeout": 300.0,
+      "temperature": 0.1,
+      "stream": false
+    },
+    {
+      "name": "通义",
+      "baseurl": "http://172.28.100.252:50081/v1",
+      "apikey": "sk-XGlRUeJRzk87rCuFOJDb6iZayk8RWq6wxdlxkM0yWCmGsjMI",
+      "model": "qwen-max",
+      "type": "通义",
+      "timeout": 300.0,
+      "temperature": 0.1,
+      "stream": false
+    },
+    {
+      "name": "sufy",
+      "baseurl": "http://172.28.100.252:50081/v1",
+      "apikey": "sk-MukadvuknbxlcUGuICYYSLkzQoyhY7p3C8ynaA4I5a7NgrtA",
+      "model": "sfqwen-max-2025-01-25",
+      "type": "sufy",
+      "timeout": 300.0,
+      "temperature": 0.1,
+      "stream": false
+    },
+    {
+      "name": "xgrok2api",
+      "baseurl": "http://172.28.100.252:50081/v1",
+      "apikey": "sk-YzgdN5x7XIFRjUmp8Ybl8BzXqgmlv4wOxx1f6G4vSBq46ETO",
+      "model": "grok-3",
+      "type": "xgrok2api",
+      "timeout": 300.0,
+      "temperature": 0.1,
+      "stream": false
+    },
+    {
+      "name": "heckDeepseekR1",
+      "baseurl": "http://172.28.100.252:50081/v1",
+      "apikey": "sk-eG7hxac2WOoouXPy25B598A8914f41Ca9cBc842a7bA52d04",
+      "model": "heckgpt-4o-mini",
+      "type": "heck",
+      "timeout": 300.0,
+      "temperature": 0.1,
+      "stream": false
+    },
+    {
+      "name": "智谱",
+      "baseurl": "http://172.28.100.252:50081/v1",
+      "apikey": "sk-TVsqdwRIAoPNYrBt4b2fBe04A86045E4B18701F7A89cCa20",
+      "model": "glm-4-plus",
+      "type": "智谱",
+      "timeout": 300.0,
+      "temperature": 0.1,
+      "stream": false
+    },
+    {
+      "name": "heckDeepseekR1",
+      "baseurl": "http://172.28.100.252:50081/v1",
+      "apikey": "sk-eG7hxac2WOoouXPy25B598A8914f41Ca9cBc842a7bA52d04",
+      "model": "heckminimax-01",
+      "type": "heck",
+      "timeout": 300.0,
+      "temperature": 0.1,
+      "stream": false
+    },
+    {
+      "name": "智谱",
+      "baseurl": "http://172.28.100.252:50081/v1",
+      "apikey": "sk-TVsqdwRIAoPNYrBt4b2fBe04A86045E4B18701F7A89cCa20",
+      "model": "glm-4",
+      "type": "智谱",
+      "timeout": 300.0,
+      "temperature": 0.1,
+      "stream": false
+    },
+    {
+      "name": "siliconflow",
+      "baseurl": "http://172.28.100.252:50081/v1",
+      "apikey": "sk-Cd9bW6j0pNMFNSqjFeAe59D14910442cBe08B652C78a3e62",
+      "model": "THUDM/glm-4-9b-chat",
+      "type": "siliconflow",
+      "timeout": 300.0,
+      "temperature": 0.1,
+      "stream": false
+    },
+    {
+      "name": "GLM",
+      "baseurl": "http://172.28.100.252:50081/v1",
+      "apikey": "sk-NFTvc7zfbq3QGbkmC8A167B7C0B344Fd94396b6443B3Fd78",
+      "model": "GLM-4-Flash",
+      "type": "GLM",
+      "timeout": 300.0,
+      "temperature": 0.1,
+      "stream": false
+    },
+    {
+      "name": "讯飞星火",
+      "baseurl": "http://172.28.100.252:50081/v1",
+      "apikey": "sk-d5lTpgMKsxHmA90FYLtvhnyOR7dmoMmCN69m72vUNTHO1PDx",
+      "model": "lite",
+      "type": "讯飞星火",
+      "timeout": 300.0,
+      "temperature": 0.1,
+      "stream": false
+    },
+    {
+      "name": "hunyuan-lite",
+      "baseurl": "http://172.28.100.252:50081/v1",
+      "apikey": "sk-YcEttOSmNIEy4dc7tuTM9KcKnyzmgTwlGFJK3ggto2XNqM7Y",
+      "model": "hunyuan-lite",
+      "type": "hunyuan-lite",
+      "timeout": 300.0,
+      "temperature": 0.1,
+      "stream": false
+    }
+  ]

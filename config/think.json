@@ -1,0 +1,173 @@
+[
+  {
+    "name": "chutesDeepseekR1",
+    "baseurl": "http://172.28.100.252:50081/v1",
+    "apikey": "sk-j7IhBZf2oCJMu9VWFa758eF29d6a4fBe8dF16685A6898957",
+    "model": "chutesDeepseekR1",
+    "type": "chutes",
+    "timeout": 30.0,
+    "temperature": 0.1
+  },
+  {
+    "name": "opDeepseekR1",
+    "baseurl": "http://172.28.100.252:50081/v1",
+    "apikey": "sk-ftV3z4QYHCr9GGn68204E9Bc30Ec4bA79619845521E54b4d",
+    "model": "opDeepseekR1",
+    "type": "openrouter",
+    "timeout": 30.0,
+    "temperature": 0.1
+  },
+  {
+    "name": "sufy",
+    "baseurl": "http://172.28.100.252:50081/v1",
+    "apikey": "sk-MukadvuknbxlcUGuICYYSLkzQoyhY7p3C8ynaA4I5a7NgrtA",
+    "model": "sfdeepseek-r1",
+    "type": "sufy",
+    "timeout": 30.0,
+    "temperature": 0.1
+  },
+  {
+    "name": "qwenlm",
+    "baseurl": "http://172.28.100.252:50081/v1",
+    "apikey": "sk-06v8oXVOFkBYDbwPE9F119F3E9954e9e8298Da122b834c03",
+    "model": "qwen-max-latest-thinking",
+    "type": "qwenlm",
+    "timeout": 30.0,
+    "temperature": 0.1
+  },
+  {
+    "name": "heckDeepseekR1",
+    "baseurl": "http://172.28.100.252:50081/v1",
+    "apikey": "sk-eG7hxac2WOoouXPy25B598A8914f41Ca9cBc842a7bA52d04",
+    "model": "opDeepseekR1",
+    "type": "heck",
+    "timeout": 30.0,
+    "temperature": 0.1
+  },
+  {
+    "name": "opDeepseekR1",
+    "baseurl": "http://172.28.100.252:50081/v1",
+    "apikey": "sk-ftV3z4QYHCr9GGn68204E9Bc30Ec4bA79619845521E54b4d",
+    "model": "opgemini-2.0-flash-thinking-exp",
+    "type": "openrouter",
+    "timeout": 30.0,
+    "temperature": 0.1
+  },
+  {
+    "name": "xgrok2api",
+    "baseurl": "http://172.28.100.252:50081/v1",
+    "apikey": "sk-YzgdN5x7XIFRjUmp8Ybl8BzXqgmlv4wOxx1f6G4vSBq46ETO",
+    "model": "grok-3-reasoning",
+    "type": "xgrok2api",
+    "timeout": 30.0,
+    "temperature": 0.1
+  },
+  {
+    "name": "chutesDeepseekR1",
+    "baseurl": "http://172.28.100.252:50081/v1",
+    "apikey": "sk-j7IhBZf2oCJMu9VWFa758eF29d6a4fBe8dF16685A6898957",
+    "model": "chutesQwQ-32B",
+    "type": "chutes",
+    "timeout": 30.0,
+    "temperature": 0.1
+  },
+  {
+    "name": "opDeepseekR1",
+    "baseurl": "http://172.28.100.252:50081/v1",
+    "apikey": "sk-ftV3z4QYHCr9GGn68204E9Bc30Ec4bA79619845521E54b4d",
+    "model": "opqwq-32b",
+    "type": "openrouter",
+    "timeout": 30.0,
+    "temperature": 0.1
+  },
+  {
+    "name": "huggingface",
+    "baseurl": "http://172.28.100.252:50081/v1",
+    "apikey": "sk-CWVVbQ6G5RWdap3LE02d27AaA00b40D6970a4e2aB3F89b81",
+    "model": "hg-QwQ-32B",
+    "type": "huggingface",
+    "timeout": 30.0,
+    "temperature": 0.1
+  },
+  {
+    "name": "qwq.aigpu.cn",
+    "baseurl": "http://172.28.100.252:50081/v1",
+    "apikey": "sk-ykNtdl1i4XNa3ZCxXfDfgoJEysz8wZcdXsE7D9C5EeHloS7N",
+    "model": "agQwQ-32B",
+    "type": "qwq.aigpu.cn",
+    "timeout": 30.0,
+    "temperature": 0.1
+  },
+  {
+    "name": "chutesDeepseekR1",
+    "baseurl": "http://172.28.100.252:50081/v1",
+    "apikey": "sk-j7IhBZf2oCJMu9VWFa758eF29d6a4fBe8dF16685A6898957",
+    "model": "chutesDeepSeek-R1-Distill-Llama-70B",
+    "type": "chutes",
+    "timeout": 30.0,
+    "temperature": 0.1
+  },
+  {
+    "name": "opDeepseekR1",
+    "baseurl": "http://172.28.100.252:50081/v1",
+    "apikey": "sk-ftV3z4QYHCr9GGn68204E9Bc30Ec4bA79619845521E54b4d",
+    "model": "opDeepseekR1DL70",
+    "type": "openrouter",
+    "timeout": 30.0,
+    "temperature": 0.1
+  },
+  {
+    "name": "opDeepseekR1",
+    "baseurl": "http://172.28.100.252:50081/v1",
+    "apikey": "sk-ftV3z4QYHCr9GGn68204E9Bc30Ec4bA79619845521E54b4d",
+    "model": "opdeepseek-r1-distill-qwen-32b",
+    "type": "openrouter",
+    "timeout": 30.0,
+    "temperature": 0.1
+  },
+  {
+    "name": "huggingface",
+    "baseurl": "http://172.28.100.252:50081/v1",
+    "apikey": "sk-CWVVbQ6G5RWdap3LE02d27AaA00b40D6970a4e2aB3F89b81",
+    "model": "hg-DeepSeek-R1-Distill-Qwen-32B",
+    "type": "huggingface",
+    "timeout": 30.0,
+    "temperature": 0.1
+  },
+  {
+    "name": "chutesDeepseekR1",
+    "baseurl": "http://172.28.100.252:50081/v1",
+    "apikey": "sk-j7IhBZf2oCJMu9VWFa758eF29d6a4fBe8dF16685A6898957",
+    "model": "chutesDeepSeek-R1-Distill-Qwen-14B",
+    "type": "chutes",
+    "timeout": 30.0,
+    "temperature": 0.1
+  },
+  {
+    "name": "opDeepseekR1",
+    "baseurl": "http://172.28.100.252:50081/v1",
+    "apikey": "sk-ftV3z4QYHCr9GGn68204E9Bc30Ec4bA79619845521E54b4d",
+    "model": "opdeepseek-r1-distill-qwen-14b",
+    "type": "openrouter",
+    "timeout": 30.0,
+    "temperature": 0.1
+  },
+  {
+    "name": "siliconflow",
+    "baseurl": "http://172.28.100.252:50081/v1",
+    "apikey": "sk-Cd9bW6j0pNMFNSqjFeAe59D14910442cBe08B652C78a3e62",
+    "model": "deepseek-ai/DeepSeek-R1-Distill-Qwen-7B",
+    "type": "siliconflow",
+    "timeout": 30.0,
+    "temperature": 0.1
+  },
+  {
+    "name": "qwq.aigpu.cn",
+    "baseurl": "http://172.28.100.252:50081/v1",
+    "apikey": "sk-ykNtdl1i4XNa3ZCxXfDfgoJEysz8wZcdXsE7D9C5EeHloS7N",
+    "model": "agdeepseek-r1:7b",
+    "type": "qwq.aigpu.cn",
+    "timeout": 30.0,
+    "temperature": 0.1
+  }
+]
