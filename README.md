@@ -37,6 +37,18 @@ pip install fastapi uvicorn aiohttp pydantic
 }
 ```
 
+#### OpenRouter端点配置
+
+当type设置为"openrouter"时，系统会自动在请求体中添加以下字段：
+- `extra_body.include_reasoning`: 固定为true，用于启用OpenRouter的推理功能
+
+这些字段用于OpenRouter的请求追踪和路由管理，无需手动添加。系统会根据不同模型自动处理请求体格式的转换，确保与各模型API的兼容性。
+
+当type设置为"openrouter"时，系统会自动在请求体中添加以下字段：
+- `extra_body.include_reasoning`: 固定为true，用于启用OpenRouter的推理功能
+
+这些字段用于OpenRouter的请求追踪和路由管理，无需手动添加。系统会根据不同模型自动处理请求体格式的转换，确保与各模型API的兼容性。
+
 ### 日志配置
 
 通过环境变量`LOG_LEVEL`控制日志级别：
