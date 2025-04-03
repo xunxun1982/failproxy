@@ -20,16 +20,6 @@
     "stream": true
   },
   {
-    "name": "sufy",
-    "baseurl": "http://172.28.100.252:50081/v1",
-    "apikey": "sk-MukadvuknbxlcUGuICYYSLkzQoyhY7p3C8ynaA4I5a7NgrtA",
-    "model": "sfdeepseek-r1",
-    "type": "sufy",
-    "timeout": 30.0,
-    "temperature": 0.1,
-    "stream": true
-  },
-  {
     "name": "qwenlm",
     "baseurl": "http://172.28.100.252:50081/v1",
     "apikey": "sk-06v8oXVOFkBYDbwPE9F119F3E9954e9e8298Da122b834c03",

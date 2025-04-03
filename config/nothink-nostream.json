@@ -10,6 +10,26 @@
       "stream": false
     },
     {
+        "name": "chutesDeepseekR1",
+        "baseurl": "http://172.28.100.252:50081/v1",
+        "apikey": "sk-j7IhBZf2oCJMu9VWFa758eF29d6a4fBe8dF16685A6898957",
+        "model": "chutesDeepseekV3-0324",
+        "type": "chutes",
+        "timeout": 300.0,
+        "temperature": 0.1,
+        "stream": false
+      },
+    {
+        "name": "opDeepseekR1",
+        "baseurl": "http://172.28.100.252:50081/v1",
+        "apikey": "sk-ftV3z4QYHCr9GGn68204E9Bc30Ec4bA79619845521E54b4d",
+        "model": "opDeepseekV3-0324",
+        "type": "openrouter",
+        "timeout": 300.0,
+        "temperature": 0.1,
+        "stream": false
+    },
+    {
       "name": "chutesDeepseekR1",
       "baseurl": "http://172.28.100.252:50081/v1",
       "apikey": "sk-j7IhBZf2oCJMu9VWFa758eF29d6a4fBe8dF16685A6898957",
@@ -35,16 +55,6 @@
       "apikey": "sk-eG7hxac2WOoouXPy25B598A8914f41Ca9cBc842a7bA52d04",
       "model": "heckdeepseekV3",
       "type": "heck",
-      "timeout": 300.0,
-      "temperature": 0.1,
-      "stream": false
-    },
-    {
-      "name": "sufy",
-      "baseurl": "http://172.28.100.252:50081/v1",
-      "apikey": "sk-MukadvuknbxlcUGuICYYSLkzQoyhY7p3C8ynaA4I5a7NgrtA",
-      "model": "sfdeepseek-v3",
-      "type": "sufy",
       "timeout": 300.0,
       "temperature": 0.1,
       "stream": false
